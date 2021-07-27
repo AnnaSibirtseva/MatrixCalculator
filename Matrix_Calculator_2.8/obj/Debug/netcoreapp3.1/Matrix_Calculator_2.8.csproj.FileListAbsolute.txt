@@ -1,0 +1,13 @@
+C:\Users\anias\source\repos\Matrix_Calculator_2.8\Matrix_Calculator_2.8\bin\Debug\netcoreapp3.1\Matrix_Calculator_2.8.exe
+C:\Users\anias\source\repos\Matrix_Calculator_2.8\Matrix_Calculator_2.8\bin\Debug\netcoreapp3.1\Matrix_Calculator_2.8.deps.json
+C:\Users\anias\source\repos\Matrix_Calculator_2.8\Matrix_Calculator_2.8\bin\Debug\netcoreapp3.1\Matrix_Calculator_2.8.runtimeconfig.json
+C:\Users\anias\source\repos\Matrix_Calculator_2.8\Matrix_Calculator_2.8\bin\Debug\netcoreapp3.1\Matrix_Calculator_2.8.runtimeconfig.dev.json
+C:\Users\anias\source\repos\Matrix_Calculator_2.8\Matrix_Calculator_2.8\bin\Debug\netcoreapp3.1\Matrix_Calculator_2.8.dll
+C:\Users\anias\source\repos\Matrix_Calculator_2.8\Matrix_Calculator_2.8\bin\Debug\netcoreapp3.1\Matrix_Calculator_2.8.pdb
+C:\Users\anias\source\repos\Matrix_Calculator_2.8\Matrix_Calculator_2.8\obj\Debug\netcoreapp3.1\Matrix_Calculator_2.8.csprojAssemblyReference.cache
+C:\Users\anias\source\repos\Matrix_Calculator_2.8\Matrix_Calculator_2.8\obj\Debug\netcoreapp3.1\Matrix_Calculator_2.8.AssemblyInfoInputs.cache
+C:\Users\anias\source\repos\Matrix_Calculator_2.8\Matrix_Calculator_2.8\obj\Debug\netcoreapp3.1\Matrix_Calculator_2.8.AssemblyInfo.cs
+C:\Users\anias\source\repos\Matrix_Calculator_2.8\Matrix_Calculator_2.8\obj\Debug\netcoreapp3.1\Matrix_Calculator_2.8.csproj.CoreCompileInputs.cache
+C:\Users\anias\source\repos\Matrix_Calculator_2.8\Matrix_Calculator_2.8\obj\Debug\netcoreapp3.1\Matrix_Calculator_2.8.dll
+C:\Users\anias\source\repos\Matrix_Calculator_2.8\Matrix_Calculator_2.8\obj\Debug\netcoreapp3.1\Matrix_Calculator_2.8.pdb
+C:\Users\anias\source\repos\Matrix_Calculator_2.8\Matrix_Calculator_2.8\obj\Debug\netcoreapp3.1\Matrix_Calculator_2.8.genruntimeconfig.cache
